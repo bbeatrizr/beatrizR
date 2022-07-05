@@ -4,8 +4,6 @@
 
 ### My name is Beatriz and my nickname is "Bea"!
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74741879/177397688-a80e3072-afb5-44d6-9ae6-887f7b14fad8.png width="400px"/>
-
 
 ```javascript
 const beatriz = {
