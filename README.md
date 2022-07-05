@@ -1,8 +1,8 @@
-# Hi there <img alt="gif hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+# Hi there <img alt="gif hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"/>
 
 ## :woman_technologist: About me... 
 
-### My name is Beatriz and my nickname is "Bea"!
+<img align="right" alt="GIF" src="https://github.com/bbeatrizr/bbeatrizr/blob/main/octocat-1657047103820.png" width="400px" />
 
 
 ```javascript
