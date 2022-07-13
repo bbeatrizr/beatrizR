@@ -1,4 +1,4 @@
-# Hi there <img alt="gif hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="400px"/>
+# Hi there <img alt="gif hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="250px"/>
 
 ## :woman_technologist: About me... 
 
