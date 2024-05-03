@@ -9,8 +9,8 @@
 const beatriz = {
   currentlyLiving: "curitiba, 🇧🇷 ",
   pronouns: "she" | "her",
-  knowledge: ["JavaScript", "HTML", "CSS", "Python", "React", "NodeJS", "TypeScript"],
-  courses: ["trybe", "rocketseat"],
+  knowledge: ["JavaScript", "HTML", "CSS", "React", "NodeJS", "TypeScript"],
+  courses: ["rocketseat"],
 }
 ```
 
